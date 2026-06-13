@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Outfit", sans-serif;
+  
+  --color-ocean-blue: #00AEEF;
+  --color-deep-blue: #005B96;
+  --color-sand: #F7F5F2;
+  --color-gold: #D9C7A2;
+  --color-dark: #1A1A1A;
+  --color-muted: #5A5A5A;
+}
+
+/* Base custom classes to support smooth animations and specific CSS layouts */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}

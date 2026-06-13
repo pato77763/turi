@@ -1,0 +1,6 @@
+{
+  "name": "AMA TUR MACEIÓ",
+  "description": "Receptivo e Turismo de Luxo em Alagoas - Transfers privativos e passeios personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
