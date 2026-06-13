@@ -77,3 +77,6 @@ Siga este guia simples para colocar o seu site online no Vercel integrado ao seu
 - `src/App.tsx`: Contém todo o fluxo de navegação, roteiros de passeios, área de transfers, feedbacks e links dinâmicos para o WhatsApp.
 - `src/assets/images/`: Pasta contendo todas as imagens enviadas e geradas, incluindo a nova imagem do card de Atrativos Turísticos (`regenerated_image_1781294147849.jpg`).
 - `vercel.json`: Arquivo de configuração específico do Vercel para garantir que rotas e navegações SPA carreguem sem erro 404 durante recarregamentos de página.
+git add .
+git commit -m "fix: organiza estrutura de pastas e coloca main.tsx em src"
+git push -u origin main --force
